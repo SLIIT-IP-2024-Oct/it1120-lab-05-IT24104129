@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IT24102279Lab5Q3{
+public class IT24104129Lab5Q3{
 	public static void main (String[] args){
 
 		const dailyCharge = 48000; 
