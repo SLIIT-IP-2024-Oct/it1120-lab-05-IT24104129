@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IT24102279Lab5Q2{
+public class IT24104129Lab5Q2{
 	public static void main(String[] args){
 	System.out.println("Enter The number of new customers :");
 	Scanner inputInstance = new Scanner(System.in);
